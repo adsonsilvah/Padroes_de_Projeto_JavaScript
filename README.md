@@ -1,4 +1,4 @@
-# arquitetura
+# Design 
 
 INSTITUTO FEDERAL DE PERNAMBUCO
 
